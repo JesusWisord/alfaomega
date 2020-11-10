@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Zanjadora RTX1250 Rockwheel",
+    "model": 2018,
+    "description": "1166 HORAS DE USO GARANTIZADA EN EXCELENTES CONDICIONES",
+    "price": 2600000,
+    "code": 121620,
+    "image": "RTX1250.png"
+  },
+  {
+    "name": "Zanjadora Vermeer T1155III 2007 TRENCHER",
+    "model":  2007,
+    "description": "3313 HORAS DE USO GARANTIZADA",
+    "price": 13500000,
+    "code": 121621,
+    "image": "T1155III.png"
+  },
+  {
+    "name": "Martillo Hidráulico de la Marca PTB",
+    "model":  2020,
+    "description": "Modelo PT2000W con año de fabricación 2020 ",
+    "price": 95000,
+    "code": 121619,
+    "image": "PT2000W.png"
+  },
+  {
+    "name": "TRACTOCAMION KENWORTH T400A",
+    "model":  1999,
+    "description": "CON GRUA DE 35 TON",
+    "price": 350000,
+    "code": 121616,
+    "image": "T400A.png"
+  },
+  {
+    "name": "BULLDOZER CATERPILLAR D6-K",
+    "model":  2010,
+    "description": "TODO LE FUNCIONA CORRECTAMENTE A/A",
+    "price": 560000,
+    "code": 121615,
+    "image": "D6K.png"
+  },
+  {
+    "name": "EXCAVADORA CATERPILLAR 320-D",
+    "model":  2006,
+    "description": "3,450.00 HORAS DE USO GARANTIZADA A/A EN EXCELENTES CONDICIONES",
+    "price": 1112000,
+    "code": 121614,
+    "image": "320D.png"
+  },
+  {
+    "name": "RETROEXCAVADORA CATERPILLAR 420-F",
+    "model":  2013,
+    "description": " 4X4 CUENTA CON EXTENSION EN BRAZO KIT PARA MARTILLO, CABINA CERRADA SONIDO: AM/FM/CD COMPLETAMENTE EQUIPADA 860.00 HORAS DE USO",
+    "price": 1350000,
+    "code": 121612,
+    "image": "420F.png"
+  },
+  {
+    "name": "RETROEXCAVADORA CASE 580 M",
+    "model":  2006,
+    "description": "RECIEN PINTADA GARANTIZADA MANTENIMIENTO PREVENTIVO RECIEN HECHO 2,890 HORAS DE USO",
+    "price": 375500,
+    "code": 121613,
+    "image": "580M.png"
+  },
+  {
+    "name": "CARGADOR FRONTAL CATERPILLAR 972H",
+    "model":  2009,
+    "description": "3,650.00 HORAS DE USO COMO NUEVO GARANTIZADO MANTENIMIENTO PREVENTIVO RECIEN HECHO",
+    "price": 2975000,
+    "code": 121611,
+    "image": "972H.png"
+  },
+  {
+    "name": "RETROEXCAVADORA CASE 580 N",
+    "model":  2013,
+    "description": "CABINA CERRADA 900 HORAS DE USO, GARANTIZADA A/A COMPLETAMENTE EQUIPADA",
+    "price": 1190000,
+    "code": 121610,
+    "image": "580N.png"
+  },
+  {
+    "name": "Motoconformadora Caterpillar 140-h",
+    "model":  2003,
+    "description": "5,600.00 horas de uso, con motor caterpillar 3306 de 185 hp con turbo, pesa 32,460 lbs. Cuchilla de 14 ft. Con ripper.",
+    "price": 890000,
+    "code": 121609,
+    "image": "140h.png"
+  },
+  {
+    "name": "MOTOCONFORMADORA CATERPILLAR 140-H",
+    "model":  1998,
+    "description": "1212.1.0 HORAS DE USO LLANTAS DELANTERAS NUEVAS, MOTOR CATERPILLAR 3306 185 HP CUCHILLA 14 FT CON RIPPERGARANTIZADA POR 12 MESES",
+    "price": 780000,
+    "code": 121605,
+    "image": "121605.png"
+  },
+  {
+    "name": "RETROEXCAVADORA CATERPILLAR 420D",
+    "model":  2003,
+    "description": "4X4 CABINA CERRADA 3,890.00 HORAS DE USO GARANTIZADA",
+    "price": 225000,
+    "code": 121608,
+    "image": "420D.png"
+  },
+  {
+    "name": "RETROEXCAVADORA CATERPILLAR 420-E",
+    "model":  2006,
+    "description": "CABINA CERRADA EXTENSION EN BRAZO KIT PARA MARTILLO 4X4 A/A SONIDO AM/FM 2980 HORAS DE USO",
+    "price": 285000,
+    "code": 121607,
+    "image": "420E.png"
+  },
+  {
+    "name": "RETROEXCAVADORA CATERPILLAR 420-E",
+    "model":  2008,
+    "description": "4X4 CABINA CERRADA A/A SONIDO AM/FM EXTENSION EN BRAZO KIT PARA MARTILLO, 2619 HORAS DE USO",
+    "price": 385000,
+    "code": 121606,
+    "image": "420E2008.png"
+  },
+  {
+    "name": "RETROEXCAVADORA CATERPILLAR 424-B 4X4",
+    "model":  2011,
+    "description": "CUENTA CON EXTENSIÓN EN BRAZO Y KIT PARA MARTILLO 4X4 EN EXCELENTES CONDICIONES SE ENTREGA CON GARANTÍA",
+    "price": 980000,
+    "code": 121604,
+    "image": "424B.png"
+  },
+  {
+    "name": "RETROEXCAVADORA CATERPILLAR 420-E",
+    "model":  2009,
+    "description": "2890 HORAS DE USO 4X4 CABINA ABIERTA CUENTA CON EXTENCION EN BRAZO Y KIT PARA MARTILLO",
+    "price": 496000,
+    "code": 121603,
+    "image": "121603.png"
+  },
+  {
+    "name": "RETROEXCAVADORA CATERPILLAR 416-E",
+    "model":  2012,
+    "description": "CUENTA CON EXTENSIÓN EN BRAZO Y KIT PARA ROTOMARTILLO EQUIPO GARANTIZADO EN EXCELENTES CONDICIONES DOCUMENTOS EN REGLA 1,100.00 HORAS DE USO",
+    "price": 560000,
+    "code": 121602,
+    "image": "121602.jpg"
+  },
+  {
+    "name": "VIBROCOMPACTADOR CS54",
+    "model":  2008,
+    "description": "2609 HORAS DE USO EQUIPO EN EXCELENTES CONDICIONES SIN DETALLE ALGUNO LISTO PARA TRABAJAR SE ENTREGA CON GARANTÍA DE UN AÑO",
+    "price": 430000,
+    "code": 121601,
+    "image": "121601.jpg"
+  },
+  {
+    "name": "299C CATERPILLAR",
+    "model":  2009,
+    "description": "Traccion de orugas Cople para implementos Motor Cat 4 Cil 92HP Alto flujo.",
+    "price": 235000,
+    "code": 121617,
+    "image": "121617.jpg"
+  }
+]

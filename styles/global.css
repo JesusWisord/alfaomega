@@ -1,0 +1,39 @@
+:root {
+  --first-brand-color: #F7B338;
+  --second-brand-color: #565656;
+  --light-first-color: #F9C971;
+  --dark-first-color: #E29409;
+  --light-second-color: #A9A9A9;
+  --dark-second-color: #181818;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:regular,bold,italic&subset=latin,latin-ext');
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-size: 18px;
+  font-family: 'Roboto', sans-serif;
+  scroll-behavior: smooth;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+@media screen and (max-width: 1000px) {
+  body {
+    font-size: 16px;
+  }
+}
+@media screen and (max-width: 800px) {
+  body{
+    font-size: 14px;
+  }
+}
+@media screen and (max-width: 700px) {
+  body{
+    font-size: 12px;
+  }
+}

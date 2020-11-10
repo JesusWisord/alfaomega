@@ -1,0 +1,25 @@
+.catalogo{
+  height: 80vh;
+  display: grid;
+  grid-template-rows: 1fr 1fr;
+  overflow: scroll;
+  grid-auto-flow: column;
+  gap: 10px;
+}
+
+.imgContainer{
+  width: 50vw;
+  height: 200px;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.producto img{
+  height: 100%;
+}
+
+.producto p{
+  text-align: center;
+}
