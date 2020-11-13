@@ -1,10 +1,14 @@
 .catalogo{
-  height: 80vh;
+  margin: 5px;
   display: grid;
   grid-template-rows: 1fr 1fr;
   overflow: scroll;
   grid-auto-flow: column;
   gap: 10px;
+}
+
+.title{
+  margin-left: 20px
 }
 
 .imgContainer{
@@ -21,5 +25,31 @@
 }
 
 .producto p{
+  width: 80%;
   text-align: center;
+  margin: 0 auto;
+}
+
+@media screen and (min-width: 700px){
+  .catalogo{
+    grid-template-rows: 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+  .imgContainer{
+    width: 30vw;
+  }
+}
+
+@media screen and (min-width: 1000px){
+  .catalogo{
+    grid-template-rows: 1fr 1fr 1fr;
+    grid-template-columns: repeat(4, 1fr);
+  }
+  .imgContainer{
+    width: 30vw;
+  }
+
+  .imgContainer img{
+    width: 100%;
+  }
 }

@@ -17,19 +17,24 @@
 
 .icon{
   height: 50px;
+  position: absolute;
   font-size: 35px;
-  padding-right: 10px;
+  right: 10px;
 }
 
 .menu{
+  display: none;
+}
+
+.menu_mobile{
   background-color: rgba(36, 23, 23, 0.6);
-  position: absolute;
+  position: relative;
   right: 0;
   top: 50px;
   height: 100vh;
 }
 
-.menu ul{
+.menu_mobile ul{
   list-style: none;
   display: flex;
   flex-direction: column;
@@ -39,8 +44,29 @@
   margin-right: 50px;
 }
 
-.menu ul li a {
+.menu_mobile ul li a {
   text-decoration: none;
   color: white;
   padding-top: 10px;
+}
+
+@media screen and (min-width: 700px){
+  .menu{
+    display: initial
+  }
+
+  .menu ul{
+    display: flex;
+    list-style: none;
+  }
+
+  .menu ul li a{
+    margin-right: 10px;
+    text-decoration: none;
+    color: #FEFEFE;
+  }
+
+  .icon{
+    display: none;
+  }
 }
