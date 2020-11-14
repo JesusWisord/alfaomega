@@ -7,14 +7,14 @@
   --dark-second-color: #181818;
 }
 
-@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:regular,bold,italic&subset=latin,latin-ext');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@200;400;700&display=swap');
 
 html,
 body {
   padding: 0;
   margin: 0;
   font-size: 18px;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Fira Sans', sans-serif;
   scroll-behavior: smooth;
 }
 

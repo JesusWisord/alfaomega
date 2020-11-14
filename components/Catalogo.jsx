@@ -4,7 +4,7 @@ import productArray from '../json/catalogo.json';
 
 const Catalogo = () => (
   <>
-    <h1 className={styles.title}>Catálogo</h1>
+    <h1 className={styles.title} id="Catalogo">Catálogo</h1>
     <div className={styles.catalogo}>
       {
           productArray.map((product) => (

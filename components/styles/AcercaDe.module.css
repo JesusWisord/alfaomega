@@ -1,4 +1,9 @@
-.acercaDe, .somos, .nosotros{
+.acercaDe{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.somos, .nosotros{
   display: flex;
   flex-direction: column;
   align-items: center;
