@@ -9,6 +9,11 @@
   align-items: center;
   justify-content: flex-end;
   padding-bottom: 20px;
+  text-align: center;
+}
+
+.hero p{
+  width: 90vw;
 }
 
 .hero h1{
