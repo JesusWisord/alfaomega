@@ -6,12 +6,13 @@ const Header = () => {
   const [menu, setMenu] = useState(false);
   return (
     <header className={styles.header}>
-      <div className="header--right">
+      <div className={styles.header_right}>
         <img
           src="/logo_2.png"
           alt="logo alfa omega"
           className={styles.logo}
         />
+        <p>Contacto: 01-800-880-0143</p>
       </div>
       <div className={styles.header__left}>
         <FiMenu className={styles.icon} onClick={() => setMenu(!menu)} />

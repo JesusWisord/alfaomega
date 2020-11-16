@@ -6,6 +6,15 @@
   justify-content: space-between;
 }
 
+.header_right{
+  display: flex;
+  color: white
+}
+
+.header_right p{
+  margin-left: 10px;
+}
+
 .header__left{
   display: flex;
   flex-direction: column;

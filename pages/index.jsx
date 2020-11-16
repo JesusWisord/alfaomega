@@ -4,6 +4,7 @@ import Hero from '../components/Hero';
 import AcercaDe from '../components/AcercaDe';
 import Catalogo from '../components/Catalogo';
 import Footer from '../components/Footer';
+import WhatsAppButton from '../components/WhatsAppButton';
 
 const HomePage = () => (
   <>
@@ -11,6 +12,7 @@ const HomePage = () => (
     <Hero />
     <AcercaDe />
     <Catalogo />
+    <WhatsAppButton />
     <Footer />
   </>
 );
