@@ -4,6 +4,11 @@
   background-color: var(--first-brand-color);
   display: flex;
   justify-content: space-between;
+  align-items: center;
+}
+
+.hideInMobile{
+  display: none
 }
 
 .header_right{
@@ -26,9 +31,7 @@
 
 .icon{
   height: 50px;
-  position: absolute;
   font-size: 35px;
-  right: 10px;
 }
 
 .menu{
@@ -77,5 +80,9 @@
 
   .icon{
     display: none;
+  }
+
+  .hideInMobile{
+    display: inline;
   }
 }

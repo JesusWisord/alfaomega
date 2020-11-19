@@ -13,6 +13,7 @@ const Header = () => {
           className={styles.logo}
         />
         <p>Contacto: 01-800-880-0143</p>
+        <p className={styles.hideInMobile}>WhatsApp: 614-511-0894</p>
       </div>
       <div className={styles.header__left}>
         <FiMenu className={styles.icon} onClick={() => setMenu(!menu)} />
