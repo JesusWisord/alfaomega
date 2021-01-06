@@ -13,7 +13,8 @@
 
 .header_right{
   display: flex;
-  color: white
+  color: white;
+  align-items: center;
 }
 
 .header_right p{
@@ -84,5 +85,11 @@
 
   .hideInMobile{
     display: inline;
+  }
+}
+
+@media screen and (max-width: 300px){
+  .header{
+    font-size: 12px;
   }
 }
