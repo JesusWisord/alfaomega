@@ -7,6 +7,10 @@ const Footer = () => (
     <div className="right">
       <p className={styles.subtitle}>Constructora Alfa Omega</p>
       <a href="#Somos" className={styles.link}>¿Quiénes Somos?</a>
+      <p>
+        Sierra de bahuichivo kilometro 11 sector
+        06 manzana 112 municipio de urique chihuahua.
+      </p>
     </div>
     <div className={styles.left}>
       <p className={styles.subtitle}>Síguenos en Redes</p>
