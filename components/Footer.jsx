@@ -5,7 +5,7 @@ import styles from './styles/Footer.module.css';
 const Footer = () => (
   <footer className={styles.footer} id="Contacto">
     <div className="right">
-      <p className={styles.subtitle}>Constructora Alfa Omega</p>
+      <p className={styles.subtitle}>Alfa Omega</p>
       <a href="#Somos" className={styles.link}>¿Quiénes Somos?</a>
       <p>
         Sierra de bahuichivo kilometro 11 sector
